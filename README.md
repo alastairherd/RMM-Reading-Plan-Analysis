@@ -1,3 +1,6 @@
+# Explanation
+Statistical analysis performed on the Robert Murray McCheyne Reading plan to explore why some days can feel so much harder than others.
+
 ## Summary Statistics for Daily Word Counts
 
 |Stat|Result|
