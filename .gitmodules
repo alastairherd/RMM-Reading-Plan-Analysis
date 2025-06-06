@@ -1,3 +1,4 @@
 [submodule "Bible-kjv-1611"]
 	path = Bible-kjv-1611
-	url = https://github.com/aruljohn/Bible-kjv-1611.git
+	url = https://github.com/alastairherd/Bible-kjv-1611.git
+	branch = personal-edits
